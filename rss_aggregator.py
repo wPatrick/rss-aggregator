@@ -59,8 +59,7 @@ recent_time_threshold = datetime.datetime.now(
 from urllib.parse import urlparse
 
 def normalize_url(url):
-    parsed = urlparse(url.strip())
-    return parsed._replace(fragment="", query="").geturl().rstrip("/")
+    return url.strip().rstrip("/")
 
 # Read previously processed links
 try:
@@ -106,7 +105,7 @@ async def process_feeds():
             if hasattr(entry, "link"):
                 norm_link = normalize_url(entry.link)
                 if norm_link not in processed_links:
-                    deduped_entries.setdefault(norm_link, entry)
+                    unique_entries.append(entry)
         unique_entries = list(deduped_entries.values())
 
         # Filter for recent entries using the published time
