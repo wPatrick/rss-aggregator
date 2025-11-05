@@ -19,7 +19,7 @@ except Exception as e:
     print(f"Error during git reset: {e}")
 
 # Set to True for appending, False for overwriting
-append_mode = False
+append_mode = True
 # Set the maximum age for entries in days when in append mode
 max_age_days = 365
 
@@ -41,6 +41,10 @@ rss_feed_urls = [
     "https://techcommunity.microsoft.com/t5/s/gxcuf89792/rss/board?board.id=MicrosoftDefenderforOffice365Blog",
     "https://techcommunity.microsoft.com/t5/s/gxcuf89792/rss/board?board.id=microsoft-security-blog",
     "https://techcommunity.microsoft.com/t5/s/gxcuf89792/rss/board?board.id=microsoft-entra-blog",
+    "https://wid.cert-bund.de/content/public/securityAdvisory/rss",
+    "https://www.exploit-db.com/rss.xml",
+    "https://wid.cert-bund.de/content/public/buergercert/rss",       
+    "https://www.cisa.gov/cybersecurity-advisories/cybersecurity-advisories.xml",
 ]
 
 # Set the output file name and state file
