@@ -631,3 +631,4 @@
 2025-11-05T09:48:23 https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2082
 2025-11-05T10:43:23 https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2488
 2025-11-05T10:43:23 https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2489
+2025-11-05T15:28:03 https://techcommunity.microsoft.com/t5/azure-network-security-blog/public-preview-custom-waf-block-status-body-for-azure/ba-p/4467435
