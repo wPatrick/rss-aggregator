@@ -105,7 +105,7 @@ async def process_feeds():
             if hasattr(entry, "link"):
                 norm_link = normalize_url(entry.link)
                 if norm_link not in processed_links:
-                    unique_entries.append(entry)
+                    deduped_entries[norm_link] = entry
         unique_entries = list(deduped_entries.values())
 
         # Filter for recent entries using the published time
