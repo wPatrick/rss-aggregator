@@ -3,6 +3,6 @@
     <title>RSS Aggregator Feed</title>
     <link>https://wpatrick.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 05 Nov 2025 08:41:34 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Nov 2025 08:46:09 GMT</lastBuildDate>
   <item><title>[UPDATE] [niedrig] Linux Kernel: Schwachstelle erm&#246;glicht Codeausf&#252;hrung</title><link>https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1914</link><pubDate>Wed, 05 Nov 2025 08:33:26 GMT</pubDate><guid isPermaLink="false">https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1914</guid><description>Ein lokaler Angreifer kann eine Schwachstelle in Linux Kernel ausnutzen, um einen Denial of Service Zustand herbeizuf&#252;hren und potenziell beliebigen Programmcode auszuf&#252;hren.</description></item></channel>
 </rss>
