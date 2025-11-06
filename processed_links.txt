@@ -663,3 +663,11 @@
 2025-11-06T10:11:57 https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2496
 2025-11-06T10:11:58 https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2497
 2025-11-06T11:06:58 https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2498
+2025-11-06T11:11:57 https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-3475
+2025-11-06T11:12:00 https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1582
+2025-11-06T11:12:01 https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1620
+2025-11-06T11:12:02 https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1269
+2025-11-06T11:12:02 https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1807
+2025-11-06T11:12:24 https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1405
+2025-11-06T11:21:57 https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2499
+2025-11-06T11:21:58 https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2500
