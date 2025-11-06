@@ -662,3 +662,4 @@
 2025-11-06T10:11:57 https://wid.cert-bund.de/portal/wid/buergercert/details?uuid=bbff5a80-9526-4f4e-86b4-aaf6d700e8d1
 2025-11-06T10:11:57 https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2496
 2025-11-06T10:11:58 https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2497
+2025-11-06T11:06:58 https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2498
