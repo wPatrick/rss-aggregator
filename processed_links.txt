@@ -634,3 +634,4 @@
 2025-11-05T15:28:03 https://techcommunity.microsoft.com/t5/azure-network-security-blog/public-preview-custom-waf-block-status-body-for-azure/ba-p/4467435
 2025-11-05T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-community/unlocking-developer-innovation-with-microsoft-sentinel-data-lake/ba-p/4467171
 2025-11-05T17:16:59 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/automating-ioc-hunts-in-microsoft-sentinel-data-lake/ba-p/4467113
+2025-11-06T08:21:59 https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2307
