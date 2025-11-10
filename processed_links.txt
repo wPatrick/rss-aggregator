@@ -851,3 +851,4 @@
 2025-11-10T12:47:18 https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-0699
 2025-11-10T12:47:20 https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-1418
 2025-11-10T14:30:18 https://techcommunity.microsoft.com/t5/azure-network-security-blog/using-packet-capture-for-troubleshooting-azure-firewall-flows/ba-p/4466692
+2025-11-10T20:12:11 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/riding-the-ai-wave-how-microsoft-entra-is-evolving-for-the/ba-p/4460536
