@@ -850,3 +850,4 @@
 2025-11-10T12:32:16 https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2534
 2025-11-10T12:47:18 https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-0699
 2025-11-10T12:47:20 https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-1418
+2025-11-10T14:30:18 https://techcommunity.microsoft.com/t5/azure-network-security-blog/using-packet-capture-for-troubleshooting-azure-firewall-flows/ba-p/4466692
