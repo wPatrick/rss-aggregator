@@ -870,3 +870,5 @@
 2025-11-11T08:32:16 https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2535
 2025-11-11T09:22:17 https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2536
 2025-11-11T09:27:16 https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2537
+2025-11-11T09:52:16 https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-0801
+2025-11-11T09:52:17 https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-1504
