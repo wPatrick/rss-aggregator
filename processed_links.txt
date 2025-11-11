@@ -884,3 +884,4 @@
 2025-11-11T11:27:16 https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2544
 2025-11-11T12:02:17 https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2545
 2025-11-11T12:22:17 https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2546
+2025-11-11T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-community/the-microsoft-zero-trust-assessment-helping-you-operationalize/ba-p/4468729
