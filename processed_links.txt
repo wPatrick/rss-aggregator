@@ -854,3 +854,15 @@
 2025-11-10T20:12:11 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/riding-the-ai-wave-how-microsoft-entra-is-evolving-for-the/ba-p/4460536
 2025-11-11T05:27:17 https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1962
 2025-11-11T06:37:17 https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1946
+2025-11-11T06:57:41 https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2194
+2025-11-11T06:57:42 https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2034
+2025-11-11T06:57:43 https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2229
+2025-11-11T06:57:44 https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2340
+2025-11-11T07:07:16 https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2022-0114
+2025-11-11T07:07:16 https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2022-0282
+2025-11-11T07:07:17 https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-3147
+2025-11-11T07:07:17 https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-0730
+2025-11-11T07:07:18 https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-0853
+2025-11-11T07:07:18 https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1034
+2025-11-11T07:07:19 https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1339
+2025-11-11T07:07:42 https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1828
