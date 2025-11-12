@@ -963,3 +963,6 @@
 2025-11-12T08:42:16 https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2563
 2025-11-12T08:42:17 https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2564
 2025-11-12T08:54:13 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/announcing-microsoft-cloud-security-benchmark-v2-public-preview/ba-p/4468523
+2025-11-12T09:07:17 https://wid.cert-bund.de/portal/wid/buergercert/details?uuid=eb670282-7ac1-498e-a09b-c0bc89880c35
+2025-11-12T09:07:17 https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2565
+2025-11-12T09:17:16 https://wid.cert-bund.de/portal/wid/buergercert/details?uuid=fc1876a3-e106-4710-ab02-9cf1a12d02c3
