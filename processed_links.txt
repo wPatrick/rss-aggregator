@@ -991,3 +991,5 @@
 2025-11-12T12:12:16 https://wid.cert-bund.de/portal/wid/buergercert/details?uuid=2cf7e052-5c1c-4362-a395-5e499b28fc64
 2025-11-12T12:12:16 https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2580
 2025-11-12T12:17:16 https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2581
+2025-11-12T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/detect-more-spend-less-the-future-of-threat-intelligence/ba-p/4468661
+2025-11-12T16:02:54 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/detect-more-spend-less-the-future-of-threat-intelligence/ba-p/4468778
