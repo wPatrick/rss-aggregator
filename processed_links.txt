@@ -887,3 +887,17 @@
 2025-11-11T17:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/the-invisible-attack-surface-hunting-ai-threats-in-defender-xdr/ba-p/4468195
 2025-11-11T17:44:50 https://techcommunity.microsoft.com/t5/azure-network-security-blog/general-availability-of-javascript-challenge-in-azure-front-door/ba-p/4466940
 2025-11-11T19:02:17 https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-0708
+2025-11-12T06:32:17 https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2547
+2025-11-12T06:32:17 https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2548
+2025-11-12T06:32:18 https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2022-0540
+2025-11-12T06:32:18 https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-0478
+2025-11-12T06:32:19 https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2022-0997
+2025-11-12T06:32:20 https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2022-1201
+2025-11-12T06:32:42 https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2186
+2025-11-12T06:32:42 https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2350
+2025-11-12T06:32:45 https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2164
+2025-11-12T06:32:45 https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2394
+2025-11-12T06:33:08 https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2246
+2025-11-12T06:33:10 https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2264
+2025-11-12T06:33:11 https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2268
+2025-11-12T06:47:17 https://wid.cert-bund.de/portal/wid/buergercert/details?uuid=f67cdafa-cead-42b6-af2f-95b3a2a10148
