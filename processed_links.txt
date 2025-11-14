@@ -1022,3 +1022,10 @@
 2025-11-13T12:27:17 https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2596
 2025-11-13T16:06:14 https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/microsoft-defender-for-office-365-fine-tuning/ba-p/4469416
 2025-11-13T17:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/sploitlight-hunting-beyond-the-patch/ba-p/4463549
+2025-11-14T08:07:16 https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2597
+2025-11-14T08:07:17 https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2022-0235
+2025-11-14T08:07:17 https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2022-0417
+2025-11-14T08:07:18 https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-0156
+2025-11-14T08:07:19 https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2401
+2025-11-14T08:07:20 https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2429
+2025-11-14T08:07:20 https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2438
