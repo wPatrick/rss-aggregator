@@ -1036,3 +1036,4 @@
 2025-11-14T11:42:17 https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2604
 2025-11-14T11:42:17 https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2605
 2025-11-14T11:47:16 https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2606
+2025-11-17T04:52:08 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/mde-for-non-persistent-vdi-implementation-guide-best-practices/ba-p/4470439
