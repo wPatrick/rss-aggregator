@@ -1125,3 +1125,5 @@
 2025-11-18T16:09:39 https://techcommunity.microsoft.com/t5/microsoft-security-community/microsoft-sentinel-mcp-server-generally-available-with-exciting/ba-p/4470125
 2025-11-18T16:09:41 https://techcommunity.microsoft.com/t5/microsoft-security-community/microsoft-ignite-2025-power-the-next-era-of-cybersecurity-with/ba-p/4469080
 2025-11-18T16:10:36 https://techcommunity.microsoft.com/t5/microsoft-security-community/empowering-organizations-with-integrated-data-security-what-s/ba-p/4470663
+2025-11-18T16:18:26 https://techcommunity.microsoft.com/t5/microsoft-defender-threat/what-s-new-at-ignite-powerful-enhancements-in-unified-threat/ba-p/4470818
+2025-11-18T16:29:40 https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/ignite-2025-microsoft-defender-now-prevents-threats-on-endpoints/ba-p/4470805
