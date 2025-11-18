@@ -1108,3 +1108,4 @@
 2025-11-18T12:02:02 https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2619
 2025-11-18T12:47:01 https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2056
 2025-11-18T12:52:01 https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2620
+2025-11-18T15:45:00 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/enhancing-visibility-into-your-identity-fabric-with-microsoft/ba-p/4470662
