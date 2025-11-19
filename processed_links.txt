@@ -1129,3 +1129,7 @@
 2025-11-18T16:29:40 https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/ignite-2025-microsoft-defender-now-prevents-threats-on-endpoints/ba-p/4470805
 2025-11-18T17:04:27 https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/charting-the-future-of-soc-human-and-ai-collaboration-for-better/ba-p/4470688
 2025-11-19T07:32:01 https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2023-2974
+2025-11-19T07:47:08 https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2209
+2025-11-19T07:48:05 https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2101
+2025-11-19T07:52:01 https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2022-0969
+2025-11-19T07:52:08 https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-0606
