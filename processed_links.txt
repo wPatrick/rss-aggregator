@@ -1199,3 +1199,16 @@
 2025-11-19T11:52:05 https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2023-3150
 2025-11-19T12:12:00 https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2639
 2025-11-20T07:37:12 https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2325
+2025-11-20T08:07:11 https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-0511
+2025-11-20T08:07:13 https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-0724
+2025-11-20T08:07:13 https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-0770
+2025-11-20T08:07:14 https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-0774
+2025-11-20T08:07:15 https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-0927
+2025-11-20T08:07:15 https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-0963
+2025-11-20T08:07:17 https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-1043
+2025-11-20T08:07:37 https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-1162
+2025-11-20T08:07:40 https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-1871
+2025-11-20T08:08:07 https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-0372
+2025-11-20T08:08:08 https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-0613
+2025-11-20T08:08:35 https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1826
+2025-11-20T08:09:29 https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2261
