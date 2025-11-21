@@ -1236,3 +1236,4 @@
 2025-11-21T11:27:10 https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2236
 2025-11-21T12:22:09 https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2023-2978
 2025-11-21T12:32:08 https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2658
+2025-11-21T23:03:08 https://techcommunity.microsoft.com/t5/microsoft-security-community/welcome-to-the-microsoft-security-community/ba-p/4471927
